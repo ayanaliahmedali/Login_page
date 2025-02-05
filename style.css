@@ -10,6 +10,8 @@
     top: 11em;
     border-radius: 20px;
     padding: 20px;
+    border: 2px solid #fff;
+    backdrop-filter: blur(8px);
 }
 
 body{
